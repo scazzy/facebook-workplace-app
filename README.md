@@ -2,7 +2,11 @@
 Desktop app for using Facebook Workplace or WorkChat outside your browser
 
 ## Screenshot
-![https://meltedsoup.files.wordpress.com/2017/02/fbwok.jpg](Facebook Workplace Mac App)
+### 1. Workplace App on Mac OS
+![Facebook Workplace Mac App](https://meltedsoup.files.wordpress.com/2017/02/fbwok.jpg)
+
+### 2. Chat Push Notification and Badge
+![Workplace Notifications](http://i.imgur.com/s8xG1Dy.jpg)
 
 ## Enable notifications
 -> Go to **WorkChat**
@@ -23,4 +27,4 @@ It is a wrapper built on electron that shows the facebook workplace website as a
 
 
 ----
-@eltonjain
+[@eltonjain](http://twitter.com/eltonjain)
