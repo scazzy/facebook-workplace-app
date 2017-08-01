@@ -5,9 +5,9 @@ Desktop app for using Facebook Workplace or WorkChat outside your browser
 
 ## Download
 1. Mac OS (Both are same apps. Just different entry pages. Download the one that you want by default)
-   - [Workplace](https://github.com/scazzy/facebook-workplace-app/blob/master/mac/Workplace.app.zip)
-   - [WorkChat](https://github.com/scazzy/facebook-workplace-app/blob/master/mac/WorkChat.app.zip)
-2. [Windows OS](https://github.com/scazzy/facebook-workplace-app/raw/master/windows/Workplace-win32-x64.zip)
+   - [Workplace](https://github.com/scazzy/facebook-workplace-app/blob/master/mac/Workplace.app.zip?raw=true)
+   - [WorkChat](https://github.com/scazzy/facebook-workplace-app/blob/master/mac/WorkChat.app.zip?raw=true)
+2. [Windows OS](https://github.com/scazzy/facebook-workplace-app/raw/master/windows/Workplace-win32-x64.zip?raw=true)
 
 
 
